@@ -1,0 +1,4 @@
+Method,Average query latency (ms),Hit rate@1 (%),Hit rate@3 (%)
+Dense,5.15,40.0,60.0
+BM25,4.13,30.0,50.0
+Hybrid (RRF),9.73,40.0,50.0

@@ -1,0 +1,7 @@
+item,value
+Embedding model,BAAI/bge-small-en-v1.5
+Vector size,384
+Similarity measure,"cosine similarity (inner product on L2-normalised vectors, FAISS IndexFlatIP)"
+Batch size,64
+Chunks in the final index,2674
+"Index build time, chunk size 100",1.64 s (cuda)

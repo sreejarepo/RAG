@@ -1,0 +1,16 @@
+{
+ "label": "Assignment 1 model: Qwen/Qwen2.5-7B + QLoRA adapter adapter_B_r16",
+ "answers": {
+  "P1": "According to [1], the beneficial owner of a company is the natural person(s) who, whether acting alone or together, or through one or more juridical persons, has a controlling ownership interest or exercises control through other means.",
+  "P2": "According to [1], a minimum haircut of 20% applies to additional Level 2A assets held in a bank's stock of high-quality liquid assets. This is 5% higher than the 15% haircut for Level 2A assets included in the 40% cap.",
+  "P3": "According to chunk [1], a Corporate Agent (Life) may have arrangements with a maximum of nine life insurers to solicit, procure, and service their insurance products.",
+  "E1": "According to Table 1, the RSF factor for other contingent funding obligations is 5% of the currently undrawn portion.",
+  "E2": "Countries must implement measures to detect the physical cross-border transportation of currency and bearer negotiable instruments, including through a declaration or disclosure system. They must also ensure competent authorities can stop or restrain such items suspected of involvement in terrorist financing, money laundering, or predicate offences.",
+  "E3": "Under the IRDAI (Registration of Corporate Agent) Regulations, 2015, key individuals must submit declarations of Fit & Proper criteria from Principal Officer, Directors, and Managing Partners (separately for each person) to be provided in the \u2018Fit and Proper Form as per annexure 1\u2019.",
+  "E4": "According to [2], the domestic structural liquidity statement (SLS) must be reported on a fortnightly basis, while the overseas branch report must be submitted on a monthly basis.",
+  "E5": "According to chunk [1], if applicable laws and regulations in the host country prohibit implementation of these guidelines, the bank must bring the same to the notice of the Reserve Bank.",
+  "E6": "According to [1], group entities are defined as those in the 'business of financial services' as per the Reserve Bank of India (Commercial Banks \u2013 Undertaking of Financial Services) Directions, 2025. Additionally, [2] clarifies that an NOFHC requires prior approval from the Reserve Bank for its overseas branches to undertake other forms of business.",
+  "E7": "According to regulation 32(1), the Board may appoint a qualified auditor to inspect or investigate the books of account or affairs of the stock broker. This provision allows the Board to take additional measures beyond routine inspections, ensuring thorough oversight of the stock broker's operations."
+ },
+ "unanswerable": "The minimum paid-up capital required to set up a cryptocurrency exchange in India under the RBI Directions is \u20b9500 crore. This is specified in chunk [2], which outlines the conditions for banks to participate in the currency futures market as trading or clearing members."
+}

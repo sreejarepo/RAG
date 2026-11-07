@@ -1,0 +1,16 @@
+{
+ "label": "Fallback instruct model: Qwen/Qwen2.5-7B-Instruct",
+ "answers": {
+  "P1": "The beneficial owner is the natural person(s) who, whether acting alone or together, or through one or more juridical persons, has/have a controlling ownership interest or who exercises control through other means [1].",
+  "P2": "The minimum haircut applicable to Level 2A assets in a bank's stock of high-quality liquid assets is 15%, and the cap on Level 2 assets is no more than 40% of the overall stock of HQLA [3]. Additionally, a minimum higher haircut of 20% must be applied to any additional Level 2A assets held beyond the 40% cap [1, 2].",
+  "P3": "A Corporate Agent (Life) may have arrangements with a maximum of nine life insurers [1(a)].",
+  "E1": "Not found in the documents.",
+  "E2": "Countries are required to have measures in place to detect the physical cross-border transportation of currency and bearer negotiable instruments, which can include a declaration or disclosure system. Additionally, competent authorities must have the legal authority to stop or restrain such items if they are suspected to be related to certain criminal activities [1]. These measures aim to prevent the financing of terrorist activities and money laundering through such transportation [2].",
+  "E3": "Key individuals must submit a declaration of Fit & Proper criteria from Principal Officer, Directors, and Managing Partners (separately for each person) as part of the application, according to the Fit and Proper Form as per annexure 1 [1].",
+  "E4": "Domestic structural liquidity statements (SLS) are required to be reported on a fortnightly basis, while overseas branch operations reports are submitted on a monthly basis to the Reserve Bank of India [2][3].",
+  "E5": "When local laws and regulations abroad prohibit the implementation of the Reserve Bank of India (Commercial Banks \u2013 Asset Liability Management) Directions, 2025, the bank shall bring the same to the notice of the relevant authorities [1].",
+  "E6": "Not found in the documents.",
+  "E7": "Under regulation 32(1) of the SEBI Stock Brokers Regulations, the Board may appoint a qualified auditor to inspect or investigate into the books of account or the affairs of the stock broker in addition to inspections by the inspecting authority [1]."
+ },
+ "unanswerable": "Not found in the documents."
+}
